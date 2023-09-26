@@ -37,7 +37,7 @@ The following screenshots shows both the mobile and desktop version of the proje
 ### Links
 
 - Solution URL: [Source code](https://github.com/Rickyngechu/Frontendmentour-2)
-- Live Site URL: [Netlify live web](https://frontend-mentour.netlify.app/)
+- Live Site URL: [Netlify live web](https://frontendmentour-3.netlify.app)
 
 ## My process
 
@@ -49,21 +49,19 @@ The following screenshots shows both the mobile and desktop version of the proje
 - Responsive web design.
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
-Since I had learned about javascript timeout function,having to put into practice what I learned was the most intresting thing that I learned throughout the project.
+I learned about responsive images and aligning items at the center and perfected on the colors selection.
 
-```js
-const setTimeout = () => {
-  console.log("🎉"), 1000;
-};
+```css
+.image {
+  max-width: 100%;
+}
 ```
 
 ### Continued development
 
-I will continue perfecting my DOM manipulation skills and handling form data using javscript in general.
+I will continue perfecting my css and html skills.
 
 ### Useful resources
 

@@ -172,9 +172,11 @@ img {
 
 /* Styling the attribute section */
 .attribution {
-  font-size: 1.2rem;
   position: relative;
   background-color: var(--very-dark-blue1);
+}
+.attribution-text {
+  font-size: 1.2rem;
 }
 .att-cont {
   text-align: center;
