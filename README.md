@@ -30,9 +30,7 @@ Users should be able to:
 ### Screenshot
 
 The following screenshots shows both the mobile and desktop version of the project.
-![](./images/frontend.png)
-![](./images/front.png)
-![](./images/fr.png)
+![](./images/Frontend-3.png)
 
 ### Links
 
